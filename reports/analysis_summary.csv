@@ -1,0 +1,60 @@
+section,group,metric,value
+overall,all students,students,144.0
+overall,all students,avg_attendance,80.11
+overall,all students,avg_assignment,73.6
+overall,all students,avg_exam,67.9
+overall,all students,avg_final,69.61
+overall,all students,median_final,69.84
+overall,all students,std_final,10.23
+overall,all students,pass_rate_pct,84.7
+department,Computer Science,students,32.0
+department,Computer Science,avg_attendance,80.47
+department,Computer Science,avg_exam,72.62
+department,Computer Science,avg_final,73.78
+department,Computer Science,pass_rate_pct,93.75
+department,Biology,students,21.0
+department,Biology,avg_attendance,81.6
+department,Biology,avg_exam,69.86
+department,Biology,avg_final,71.67
+department,Biology,pass_rate_pct,95.24
+department,Business Administration,students,16.0
+department,Business Administration,avg_attendance,81.19
+department,Business Administration,avg_exam,69.42
+department,Business Administration,avg_final,71.15
+department,Business Administration,pass_rate_pct,87.5
+department,Mathematics,students,27.0
+department,Mathematics,avg_attendance,76.54
+department,Mathematics,avg_exam,65.08
+department,Mathematics,avg_final,67.58
+department,Mathematics,pass_rate_pct,81.48
+department,Electrical Engineering,students,30.0
+department,Electrical Engineering,avg_attendance,81.24
+department,Electrical Engineering,avg_exam,65.67
+department,Electrical Engineering,avg_final,66.97
+department,Electrical Engineering,pass_rate_pct,80.0
+department,Mechanical Engineering,students,18.0
+department,Mechanical Engineering,avg_attendance,80.28
+department,Mechanical Engineering,avg_exam,63.82
+department,Mechanical Engineering,avg_final,65.87
+department,Mechanical Engineering,pass_rate_pct,66.67
+attendance_relationship,pearson_r_with_attendance,exam_score,0.314
+attendance_relationship,pearson_r_with_attendance,assignment_score,0.039
+attendance_relationship,pearson_r_with_attendance,final_score,0.267
+attendance_relationship,summary,points_per_10pct_attendance,2.24
+attendance_relationship,summary,low_attendance_students,42.0
+attendance_relationship,summary,low_att_avg_final,65.61
+attendance_relationship,summary,low_att_pass_rate_pct,78.6
+attendance_relationship,summary,good_att_avg_final,71.26
+attendance_relationship,summary,good_att_pass_rate_pct,87.3
+attendance_band,<60%,students,8.0
+attendance_band,<60%,avg_final,65.04
+attendance_band,<60%,pass_rate_pct,87.5
+attendance_band,60-74%,students,34.0
+attendance_band,60-74%,avg_final,65.74
+attendance_band,60-74%,pass_rate_pct,76.47
+attendance_band,75-89%,students,70.0
+attendance_band,75-89%,avg_final,70.76
+attendance_band,75-89%,pass_rate_pct,87.14
+attendance_band,90-100%,students,32.0
+attendance_band,90-100%,avg_final,72.35
+attendance_band,90-100%,pass_rate_pct,87.5

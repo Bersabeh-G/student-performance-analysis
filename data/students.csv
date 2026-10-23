@@ -1,0 +1,156 @@
+student_id,name,department,attendance,assignment_score,exam_score
+S2024001,Ruth Zewdu,Computer Science,71.0,60.9,86.0
+S2024002,Henok Tadesse,Business Administration,77.1,82.9,64.3
+S2024003,Mary Demissie,Biology,83.2,87.3,74.5
+S2024004,Ethan Abebe,Computer Science,82.3,77.5,88.0
+S2024005,Lucas Tadesse,Mathematics,65.9,69.1,70.5
+S2024006,Fatima Mensah,Mechanical Engineering,81.2,80.3,78.7
+S2024007,Ruth Patel,Computer Science,83.0,97.9,87.6
+S2024008,Michael Desta,Electrical Engineering,100.0,91.4,81.5
+S2024009,Bethel Alemu,Mechanical Engineering,100.0,59.3,55.9
+S2024010,Peter Wilson,Electrical Engineering,68.9,85.3,76.8
+S2024011,Brian Mensah,Computer Science,76.3,70.4,77.0
+S2024012,Selam Johnson,Mechanical Engineering,61.0,73.5,55.7
+S2024013,Nardos Haile,Biology,72.3,88.3,70.2
+S2024014,Dawit Garcia,Computer Science,84.1,130.0,56.5
+S2024015,Omar Smith,Electrical Engineering,95.7,59.2,64.6
+S2024016,Ibrahim Tilahun,Electrical Engineering,70.5,53.3,38.9
+S2024017,Nardos Demissie,Mechanical Engineering,71.5,57.5,59.1
+S2024018,Zainab Ayele,Biology,52.1,79.7,59.0
+S2024019,Mia Negash,Biology,77.9,89.9,80.5
+S2024020,Ahmed Johnson,Mathematics,66.2,71.5,50.6
+S2024021,Ruth Chen,Biology,73.1,58.3,49.8
+S2024022,Tigist Johnson,Electrical Engineering,68.6,53.3,31.7
+S2024023,Kidus Khan,Computer Science,78.8,74.3,65.2
+S2024024,Bethel Fikre,,57.1,69.4,54.0
+S2024025,Ruth Wilson,Mathematics,60.9,57.8,65.7
+S2024026,Amina Tesfaye,Mathematics,100.0,77.0,80.8
+S2024027,Dawit Mulugeta,Electrical Engineering,,63.3,60.1
+S2024028,Omar Fikre,Electrical Engineering,65.7,56.4,68.5
+S2024029,Sara Assefa,Computer Science,100.0,73.1,72.8
+S2024030,Hiwot Wolde,computer science,100.0,75.9,87.2
+S2024031,Selam Okafor,Mechanical Engineering,64.8,59.5,57.7
+S2024032,Nathan Tadesse,Mechanical Engineering,75.2,75.7,63.6
+S2024033,Tigist Garcia,Business Administration,84.4,77.3,79.0
+S2024034,Fatima Kassa,Electrical Engineering,100.0,72.3,81.6
+S2024035,Peter Mohammed,Biology,,68.5,75.6
+S2024036,Eden Berhanu,Business Administration,76.8,89.1,74.4
+S2024037,,Biology,90.1,65.6,68.3
+S2024038,Daniel Garcia,Mathematics,85.7,67.6,65.8
+S2024039,Mary Fikre,Electrical Engineering,75.1,81.4,63.7
+S2024040,Samuel Mohammed,Electrical Engineering,78.3,53.0,40.7
+S2024041,Ibrahim Smith,Mathematics,62.1,67.1,47.2
+S2024042,Bethel Mohammed,Mechanical Engineering,76.9,56.6,50.6
+S2024043,Omar Johnson,Electrical Engineering,76.5,57.4,48.5
+S2024044,Joseph Mohammed,Mechanical Engineering,83.0,55.7,60.0
+S2024045,Rahel Okafor,Mechanical Engineering,72.8,73.8,62.1
+S2024046,Joseph Mulugeta,Mathematics,86.1,72.0,76.2
+S2024047,David Yilma,ELECTRICAL ENGINEERING,93.2,64.8,77.4
+S2024048,Ethan Adane,Mathematics,82.0,71.5,-8.0
+S2024049,Sara Kebede,Mathematics,84.6,91.8,77.7
+S2024050,Peter Brown,Electrical Engineering,80.7,67.7,69.5
+S2024051,Ahmed Garcia,Computer Science,80.0,78.7,83.1
+S2024052,Selam Taylor,Mechanical Engineering,70.6,67.6,51.3
+S2024053,Omar Tadesse,Computer Science,84.1,78.9,65.3
+S2024054,Yonas Tadesse,Electrical Engineering,78.7,47.8,62.6
+S2024055,Fatima Gebru,Business Administration,100.0,56.2,60.9
+S2024056,Abel Smith,mathematics,100.0,63.5,71.2
+S2024057,Ethan Ayele,Mathematics,85.0,84.6,58.7
+S2024058,Rahel Johnson,Computer Science,70.1,83.2,83.3
+S2024059,Ethan Yilma,Mathematics,65.5,92.7,87.4
+S2024060,Tomas Khan,Computer Science,95.5,58.1,63.6
+S2024061,Ethan Brown,Biology,83.4,68.7,75.9
+S2024062,Bethel Hailu,Mathematics,86.2,71.2,105.0
+S2024063,Ethan Mohammed,Mathematics,57.3,75.9,57.8
+S2024064,Selam Chen,Electrical Engineering,92.1,76.1,67.1
+S2024065,Aisha Mohammed,Mathematics,85.9,59.7,49.9
+S2024066,Nardos Brown,Computer Science,65.6,83.5,78.4
+S2024067,Nathan Hussein,Mechanical Engineering,73.9,64.5,
+S2024068,Nathan Haile,Business Administration,83.4,79.5,60.7
+S2024069,Chloe Adane,Electrical Engineering,80.7,69.0,51.8
+S2024070,Sara Mohammed,Computer Science,76.2,57.2,66.1
+S2024071,Tomas Wilson,Biology,78.7,59.2,83.2
+S2024072,Sara Hailu,Business Administration,76.7,83.0,60.8
+S2024073,Omar Girma,Mechanical Engineering,82.0,81.4,69.1
+S2024074,Bethel Ayele,Business Administration,99.1,74.6,94.3
+S2024075,Sara Demissie,Business Administration,46.6,67.7,59.3
+S2024076,Samuel Patel,Mathematics,76.9,72.6,57.2
+S2024077,Nathan Wilson,Computer Science,82.3,72.0,57.0
+S2024078,  peter hailu ,Biology,83.8,97.5,75.2
+S2024079,Hanna Lemma,Biology,75.2,74.8,70.3
+S2024080,Zainab Assefa,Business Administration,57.2,79.5,74.6
+S2024081,Michael Mensah,Electrical Engineering,84.3,67.6,58.1
+S2024082,Meron Mohammed,Computer Science,100.0,78.0,80.6
+S2024083,Liya Garcia,Mathematics,60.1,72.4,61.8
+S2024084,Sara Girma,Mathematics,91.2,84.2,98.5
+S2024085,Ethan Wolde,Electrical Engineering,75.7,100.0,76.7
+S2024086,Peter Taylor,Computer Science,79.2,90.7,66.8
+S2024087,Eden Taylor,Computer Science,66.3,84.3,71.3
+S2024088,Selam Tilahun,Computer Science,75.7,76.6,83.4
+S2024089,Dawit Alemu,Biology,96.9,76.6,71.3
+S2024090,Dawit Tadesse,Mathematics,87.6,83.9,63.5
+S2024091,Ethan Johnson,Computer Science,,82.3,81.6
+S2024092,Kidus Zewdu,Biology,95.3,88.8,69.6
+S2024093,Joseph Gebru,Electrical Engineering,85.7,70.3,63.0
+S2024094,Samuel Taylor,Business Administration,100.0,73.2,56.3
+S2024095,Eden Gebru,Mechanical Engineering,85.7,58.4,
+S2024096,Michael Abebe,Biology,90.8,69.4,58.2
+S2024097,Brian Alemu,Mathematics,76.1,56.5,56.0
+S2024098,Aisha Lemma,Computer Science,80.9,74.5,74.0
+S2024099,Ibrahim Bekele,Electrical Engineering,70.9,80.7,80.0
+S2024100,Rahel Berhanu,Electrical Engineering,92.9,71.5,75.1
+S2024101,Omar Mohammed,Electrical Engineering,64.7,74.5,63.1
+S2024102,Ibrahim Mensah,Mathematics,90.2,93.1,73.3
+S2024103,Omar Berhanu,Biology,77.5,81.2,65.1
+S2024104,Daniel Ali,Electrical Engineering,95.2,73.1,70.9
+S2024105,Sara Negash,Mathematics,89.8,88.8,70.6
+S2024106,Liya Gebru,Business Administration,100.0,85.0,87.3
+S2024107,Kevin Khan,Mechanical Engineering,89.5,69.3,60.9
+S2024108,David Garcia,Business Administration,59.6,73.7,70.5
+S2024109,Daniel Fikre,Computer Science,79.1,69.9,71.1
+S2024110,Peter Girma,Mathematics,64.8,73.2,57.4
+S2024111,Henok Demissie,Computer Science,73.3,85.3,72.5
+S2024112,Brian Zewdu,Electrical Engineering,99.6,75.3,85.9
+S2024113,Ahmed Girma,Electrical Engineering,88.3,83.1,98.2
+S2024114,Tigist Chen,Electrical Engineering,70.9,84.7,60.7
+S2024115,Liya Khan,Computer Science,66.8,85.8,57.5
+S2024116,Mia Patel,Computer Science,80.4,,68.5
+S2024117,Joseph Hailu,Biology,64.2,72.3,60.1
+S2024118,Nathan Bekele,Mathematics,71.3,67.8,59.4
+S2024119,Joseph Smith,Computer Science,84.1,78.4,68.1
+S2024120,Mary Desta,Electrical Engineering,95.0,57.8,68.5
+S2024121,Dawit Tilahun,Mechanical Engineering,87.9,74.3,75.8
+S2024122,Rahel Abebe,Mathematics,50.2,73.2,57.8
+S2024123,Joseph Kassa,Biology,84.0,67.5,78.2
+S2024124,Hiwot Taylor,BIOLOGY,80.9,75.9,81.4
+S2024125,Meron Wilson,Mechanical Engineering,85.4,,70.7
+S2024126,David Tesfaye, Business Administration ,100.0,63.2,74.2
+S2024127,Rahel Tesfaye,Electrical Engineering,53.2,73.5,63.1
+S2024128,Lucas Patel, Mathematics ,72.3,67.2,57.0
+S2024129,Chloe Patel,Biology,87.7,80.9,56.9
+S2024130,Grace Zewdu,Computer Science,59.4,65.2,49.0
+S2024131,Eden Ayele,Biology,99.2,65.2,61.0
+S2024132,Daniel Taylor,Computer Science,84.8,80.9,96.5
+S2024133,Yonas Desta,Biology,91.0,74.1,78.8
+S2024134,Hanna Brown,Biology,112.0,69.9,72.3
+S2024135,Grace Hussein,Computer Science,90.6,68.6,55.0
+S2024136,Hanna Mekonnen,Business Administration,93.9,65.7,57.3
+S2024137,Hanna Chen,Computer Science,83.0,80.9,69.9
+S2024138,Aisha Patel,Mechanical Engineering,83.0,87.8,78.3
+S2024139,Ibrahim Lemma,Mathematics,83.5,69.1,76.0
+S2024140,Selam Ali,Computer Science,68.8,67.3,71.1
+S2024141,Kevin Wilson,Business Administration,78.1,82.2,72.8
+S2024142,Liya Mekonnen,Mathematics,78.0,60.6,45.0
+S2024143,Bethel Yilma,Electrical Engineering,85.0,64.7,65.2
+S2024144,Ethan Tilahun,Computer Science,93.0,80.8,70.0
+S2024145,Amina Girma,Business Administration,66.2,70.2,64.1
+S2024146,Kidus Yilma,Mechanical Engineering,78.4,70.1,69.2
+S2024147,Ruth Assefa,Mechanical Engineering,99.3,77.1,61.6
+S2024148,David Alemu,Electrical Engineering,70.3,71.7,56.7
+S2024149,Nathan Smith,Mathematics,69.3,69.8,64.1
+S2024150,Ahmed Mulugeta,Mechanical Engineering,82.6,78.8,68.4
+S2024032,Nathan Tadesse,Mechanical Engineering,75.2,75.7,63.6
+S2024149,Nathan Smith,Mathematics,69.3,69.8,64.1
+S2024146,Kidus Yilma,Mechanical Engineering,78.4,70.1,69.2
+S2024108,David Garcia,Business Administration,59.6,73.7,60.5
+S2024140,Selam Ali,Computer Science,68.8,67.3,61.1
